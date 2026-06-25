@@ -38,6 +38,16 @@ src="https://img.shields.io/github/followers/janakpandey?logo=github&style=for-t
 
 <a href="http://www.github.com/janakpandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=janakpandey&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### 💻 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basyalavishek&bg_color=1e1e1e&color=ff047d&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Avishek's GitHub activity graph" width="100%" />
+</p>
+
+---
+
+---
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
