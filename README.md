@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend and AI Engineer
 -----------------------
 
-👋 Hi, I'm a Computer Engineering student passionate about Artificial Intelligence and Machine Learning.
+👋 Hi, I'm a Computer Engineer passionate about Artificial Intelligence and Machine Learning.
 
 🤖 I am actively learning and building projects in AI/ML, with a particular interest in Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Natural Language Processing (NLP). I enjoy designing intelligent systems that can reason, retrieve information, and automate complex tasks.
 
